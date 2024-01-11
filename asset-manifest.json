@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/atcm-portfolio-example/static/css/main.d25d918c.css",
+    "main.js": "/atcm-portfolio-example/static/js/main.cc57b078.js",
+    "static/js/787.70f5df47.chunk.js": "/atcm-portfolio-example/static/js/787.70f5df47.chunk.js",
+    "index.html": "/atcm-portfolio-example/index.html",
+    "main.d25d918c.css.map": "/atcm-portfolio-example/static/css/main.d25d918c.css.map",
+    "main.cc57b078.js.map": "/atcm-portfolio-example/static/js/main.cc57b078.js.map",
+    "787.70f5df47.chunk.js.map": "/atcm-portfolio-example/static/js/787.70f5df47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d25d918c.css",
+    "static/js/main.cc57b078.js"
+  ]
+}
