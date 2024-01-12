@@ -24,7 +24,7 @@ After starting the project, you can view it in your web browser at `http://local
 
 ## Preview
 
-If you wish to check the final looks, access it at `https://dlopesa.github.io/atcm-portfolio-example/`.
+A preview of this project can be seen [HERE](https://dlopesa.github.io/atcm-portfolio-example/).
 
 ## Contributing
 
