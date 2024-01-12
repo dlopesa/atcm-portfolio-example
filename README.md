@@ -22,6 +22,10 @@ To install the project, follow these steps:
 
 After starting the project, you can view it in your web browser at `http://localhost:3000`.
 
+## Preview
+
+If you wish to check the final looks, access it at `https://dlopesa.github.io/atcm-portfolio-example/`.
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
