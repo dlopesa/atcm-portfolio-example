@@ -18,7 +18,8 @@ for i, image_file in enumerate(image_files, start=1):
         "subject": filename_without_extension,
         "name": f"Project {filename_without_extension}",
         "image": f"img/{image_file}",
-        "description": f"Description of Project {filename_without_extension}"
+        "description": f"Description of Project {filename_without_extension}",
+        "pdf": f"img/{filename_without_extension}.pdf"
     }
 
     # Add the project to the list of projects

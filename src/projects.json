@@ -1,142 +1,122 @@
 [
   {
     "id": 1,
-    "subject": "basement details-1",
-    "name": "Project basement details-1",
-    "image": "img/basement details-1.png",
-    "description": "Description of Project basement details-1"
+    "subject": "detail",
+    "name": "Project 1st semester - eave detail",
+    "image": "img/1st semester - eave detail.png",
+    "description": "Description of Project 1st semester - eave detail",
+    "pdf": "img/1st semester - eave detail.pdf"
   },
   {
     "id": 2,
-    "subject": "basement details-2",
-    "name": "Project basement details-2",
-    "image": "img/basement details-2.png",
-    "description": "Description of Project basement details-2"
+    "subject": "detail",
+    "name": "Project 1st semester - ridge detail",
+    "image": "img/1st semester - ridge detail.png",
+    "description": "Description of Project 1st semester - ridge detail",
+    "pdf": "img/1st semester - ridge detail.pdf"
   },
   {
     "id": 3,
-    "subject": "basement details-3",
-    "name": "Project basement details-3",
-    "image": "img/basement details-3.png",
-    "description": "Description of Project basement details-3"
+    "subject": "detail",
+    "name": "Project 1st semester - window detail",
+    "image": "img/1st semester - window detail.png",
+    "description": "Description of Project 1st semester - window detail",
+    "pdf": "img/1st semester - window detail.pdf"
   },
   {
     "id": 4,
-    "subject": "basement details-4",
-    "name": "Project basement details-4",
-    "image": "img/basement details-4.png",
-    "description": "Description of Project basement details-4"
+    "subject": "detail",
+    "name": "Project 1st semester -foundation detail",
+    "image": "img/1st semester -foundation detail.png",
+    "description": "Description of Project 1st semester -foundation detail",
+    "pdf": "img/1st semester -foundation detail.pdf"
   },
   {
     "id": 5,
-    "subject": "cross section-1",
-    "name": "Project cross section-1",
-    "image": "img/cross section-1.png",
-    "description": "Description of Project cross section-1"
+    "subject": "plan",
+    "name": "Project 2nd semester - drainage and rain water plan",
+    "image": "img/2nd semester - drainage and rain water plan.jpg",
+    "description": "Description of Project 2nd semester - drainage and rain water plan",
+    "pdf": "img/2nd semester - drainage and rain water plan.pdf"
   },
   {
     "id": 6,
-    "subject": "deck and external wall detail-1",
-    "name": "Project deck and external wall detail-1",
-    "image": "img/deck and external wall detail-1.png",
-    "description": "Description of Project deck and external wall detail-1"
+    "subject": "detail",
+    "name": "Project 2nd semester - external wall and deck detail",
+    "image": "img/2nd semester - external wall and deck detail.jpg",
+    "description": "Description of Project 2nd semester - external wall and deck detail",
+    "pdf": "img/2nd semester - external wall and deck detail.pdf"
   },
   {
     "id": 7,
-    "subject": "drainage plan REVIT-1",
-    "name": "Project drainage plan REVIT-1",
-    "image": "img/drainage plan REVIT-1.png",
-    "description": "Description of Project drainage plan REVIT-1"
+    "subject": "detail",
+    "name": "Project 2nd semester - external wall and foundation detail",
+    "image": "img/2nd semester - external wall and foundation detail.jpg",
+    "description": "Description of Project 2nd semester - external wall and foundation detail",
+    "pdf": "img/2nd semester - external wall and foundation detail.pdf"
   },
   {
     "id": 8,
-    "subject": "external wall + foundation .-1",
-    "name": "Project external wall + foundation .-1",
-    "image": "img/external wall + foundation .-1.png",
-    "description": "Description of Project external wall + foundation .-1"
+    "subject": "plan",
+    "name": "Project 2nd semester - floor plan",
+    "image": "img/2nd semester - floor plan.jpg",
+    "description": "Description of Project 2nd semester - floor plan",
+    "pdf": "img/2nd semester - floor plan.pdf"
   },
   {
     "id": 9,
-    "subject": "external wall + foundation-1",
-    "name": "Project external wall + foundation-1",
-    "image": "img/external wall + foundation-1.png",
-    "description": "Description of Project external wall + foundation-1"
+    "subject": "detail",
+    "name": "Project 2nd semester - horizontal load on facade",
+    "image": "img/2nd semester - horizontal load on facade.jpg",
+    "description": "Description of Project 2nd semester - horizontal load on facade",
+    "pdf": "img/2nd semester - horizontal load on facade.pdf"
   },
   {
     "id": 10,
-    "subject": "fire analysis REVIT-1",
-    "name": "Project fire analysis REVIT-1",
-    "image": "img/fire analysis REVIT-1.png",
-    "description": "Description of Project fire analysis REVIT-1"
+    "subject": "detail",
+    "name": "Project 2nd semester - horizontal load on gable",
+    "image": "img/2nd semester - horizontal load on gable.jpg",
+    "description": "Description of Project 2nd semester - horizontal load on gable",
+    "pdf": "img/2nd semester - horizontal load on gable.pdf"
   },
   {
     "id": 11,
-    "subject": "fire plan REVIT-1",
-    "name": "Project fire plan REVIT-1",
-    "image": "img/fire plan REVIT-1.png",
-    "description": "Description of Project fire plan REVIT-1"
+    "subject": "detail",
+    "name": "Project 2nd semester - roof ridge",
+    "image": "img/2nd semester - roof ridge.png",
+    "description": "Description of Project 2nd semester - roof ridge",
+    "pdf": "img/2nd semester - roof ridge.pdf"
   },
   {
     "id": 12,
-    "subject": "floor plan-1",
-    "name": "Project floor plan-1",
-    "image": "img/floor plan-1.png",
-    "description": "Description of Project floor plan-1"
+    "subject": "plan",
+    "name": "Project 2nd semester - sewer plan cross section",
+    "image": "img/2nd semester - sewer plan cross section.jpg",
+    "description": "Description of Project 2nd semester - sewer plan cross section",
+    "pdf": "img/2nd semester - sewer plan cross section.pdf"
   },
   {
     "id": 13,
-    "subject": "INTERIOR LOAD BEARING WALL and FOUNDATION details (Illona)-1",
-    "name": "Project INTERIOR LOAD BEARING WALL and FOUNDATION details (Illona)-1",
-    "image": "img/INTERIOR LOAD BEARING WALL and FOUNDATION details (Illona)-1.png",
-    "description": "Description of Project INTERIOR LOAD BEARING WALL and FOUNDATION details (Illona)-1"
+    "subject": "plan",
+    "name": "Project 2nd semester - ventilation plan",
+    "image": "img/2nd semester - ventilation plan.jpg",
+    "description": "Description of Project 2nd semester - ventilation plan",
+    "pdf": "img/2nd semester - ventilation plan.pdf"
   },
   {
     "id": 14,
-    "subject": "INTERIOR NON-LOAD BEARING WALL and FOUNDATION details (Illona)-1",
-    "name": "Project INTERIOR NON-LOAD BEARING WALL and FOUNDATION details (Illona)-1",
-    "image": "img/INTERIOR NON-LOAD BEARING WALL and FOUNDATION details (Illona)-1.png",
-    "description": "Description of Project INTERIOR NON-LOAD BEARING WALL and FOUNDATION details (Illona)-1"
-  },
-  {
-    "id": 15,
-    "subject": "internal non load bearing wall + deck-1",
-    "name": "Project internal non load bearing wall + deck-1",
-    "image": "img/internal non load bearing wall + deck-1.png",
-    "description": "Description of Project internal non load bearing wall + deck-1"
+    "subject": "analysis",
+    "name": "Project 2nd semester - vertical load",
+    "image": "img/2nd semester - vertical load.jpg",
+    "description": "Description of Project 2nd semester - vertical load",
+    "pdf": "img/2nd semester - vertical load.pdf"
   },
   {
     "id": 16,
-    "subject": "internal non load bearing wall + light weight floor partition-1",
-    "name": "Project internal non load bearing wall + light weight floor partition-1",
-    "image": "img/internal non load bearing wall + light weight floor partition-1.png",
-    "description": "Description of Project internal non load bearing wall + light weight floor partition-1"
-  },
-  {
-    "id": 17,
-    "subject": "ridge-1",
-    "name": "Project ridge-1",
-    "image": "img/ridge-1.png",
-    "description": "Description of Project ridge-1"
-  },
-  {
-    "id": 18,
-    "subject": "stairs + ground slab-1",
-    "name": "Project stairs + ground slab-1",
-    "image": "img/stairs + ground slab-1.png",
-    "description": "Description of Project stairs + ground slab-1"
-  },
-  {
-    "id": 19,
-    "subject": "stairs + light weight floor construction-1",
-    "name": "Project stairs + light weight floor construction-1",
-    "image": "img/stairs + light weight floor construction-1.png",
-    "description": "Description of Project stairs + light weight floor construction-1"
-  },
-  {
-    "id": 20,
-    "subject": "ventilation plan REVIT-1",
-    "name": "Project ventilation plan REVIT-1",
-    "image": "img/ventilation plan REVIT-1.png",
-    "description": "Description of Project ventilation plan REVIT-1"
+    "subject": "booklet",
+    "name": "Project 3rd semester - booklet",
+    "image": "img/3rd semester - booklet.png",
+    "description": "Description of Project 3rd semester - booklet",
+    "pdf": "img/3rd semester - booklet.pdf"
   }
 ]

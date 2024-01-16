@@ -56,6 +56,7 @@ useEffect(() => {
         <button onClick={() => filterPortfolio('section')} className="mr-4 border px-3 py-1 ">Sections</button>
         <button onClick={() => filterPortfolio('plan')} className="mr-4 border px-3 py-1 ">Plans</button>
         <button onClick={() => filterPortfolio('analysis')} className="border px-3 py-1 ">Analysis</button>
+        <button onClick={() => filterPortfolio('booklet')} className="border px-3 py-1 ">Booklets</button>
       </div>
 
     
@@ -97,6 +98,9 @@ useEffect(() => {
       <p>{selectedProject.description}</p>
       <button onClick={closeModal} className="mt-4 bg-black text-white py-2 px-4 hover:bg-gray-900">
         Close
+      </button>
+      <button onClick={() => window.open(`/${selectedProject.pdf}`, '_blank')} className="mt-4 ml-4 bg-black text-white py-2 px-4 hover:bg-gray-900">
+        PDF Version
       </button>
     </div>
   </div>
